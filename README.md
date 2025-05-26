@@ -3,67 +3,63 @@
 
 https://youtu.be/rd6fmf2Gjds?si=YIFANphKm2OphsCL 
 
-Zahidul Islam Joy 30 
-23 batch CSE
+BookStore:
 
+I am Zahidul Islam Joy student of PUB 23rd batch BSc in CSE, ID-30.
 
+Today I’m showing my project titled “Laravel Bookstore Management System.”
 
+✅ Features
 
-<b>Project Summary: Bookstore Inventory Management System</b>
+Book CRUD Operations (Create, Read, Update, Delete)
 
-Overview:
-The Bookstore Inventory Management System is a web-based application designed to manage and track books within a bookstore. The interface allows users to view, search, add, update, and delete book records efficiently. It includes pagination to navigate through large datasets and provides quick access to essential book details.
+Pagination (10 books per page)
 
-Key Features:
+Responsive Design
 
-    Book Listing:
+Modern UI (Bootstrap 5)
 
-        Displays a tabular list of books with columns for ID, Title, Author, ISBN, Stock, Price, and Actions.
+🛠💻 Technologies Used
 
-        Each row represents a unique book entry in the inventory.
+Backend: Laravel 12
 
-    Search Functionality:
+Frontend: Bootstrap 5
 
-        A search bar allows users to filter books by keywords such as title or author for quicker access to specific records.
+Database: MySQL
 
-    CRUD Operations:
+Pagination: Laravel Paginator
 
-        View: View full details of a book.
+🚀 Installation
 
-        Edit: Modify book details such as title, author, stock, or price.
+laragon install
 
-        Delete: Remove a book from the system.
+composer install
 
-    Add New Book:
+project on folder www
 
-        A “New Book” button enables the addition of new entries into the inventory.
+🚀 Run on Terminal
 
-    Pagination:
+cd book-store code .
 
-        The table supports pagination, displaying 20 entries per page.
+Edit .env file:
 
-        Navigation controls allow users to move between pages easily, with current page highlighted.
+DB_CONNECTION=mysql DB_HOST=127.0.0.1 DB_PORT=3306 DB_DATABASE=bookstore DB_USERNAME=root DB_PASSWORD=
 
-User Interface:
+create a database name bookstore
 
-    Clean and modern UI with a responsive design.
+php artisan migrate
 
-    Color-coded action buttons for clarity (e.g., green for “View”, blue for “Edit”, red for “Delete”).
+php artisan db:seed
 
-    Data is well-organized in a readable tabular format.
+php artisan serve
 
-Technology Stack (Assumed):
+Access the application at[ http://127.0.0.1:8000]
 
-    Frontend: HTML/CSS, JavaScript, possibly React or another JS framework.
+📂 Project Structure
 
-    Backend: Could be implemented with Node.js, Python (Django/Flask), PHP, or similar.
+book-store/ ├── app/ # Core application logic └── Http/ # Controllers ├── Models/ # Database models │ └── Providers/ # Paginator
+├── database/ # Factories, Migrations and seeders ├── resources/ # Views Create books and layout folder and it's file ├── routes/ # Application routes
 
-    Database: Likely uses a relational database such as MySQL or PostgreSQL to store book data.
+📝 License This project is open-source and available under the MIT License.
 
-Use Cases:
-
-    Bookstore managers maintaining inventory.
-
-    Librarians cataloging and tracking book availability.
-
-    Online book selling platforms managing product listings
+Thank You Sir!

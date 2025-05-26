@@ -3,12 +3,12 @@
 
 https://youtu.be/rd6fmf2Gjds?si=YIFANphKm2OphsCL 
 
+Zahidul Islam Joy 
+ID: 0322320105101030
+
+This is my project “Laravel Bookstore Management System.”
+
 BookStore:
-
-Hi! I am Zahidul Islam Joy student of PUB 23rd batch BSc in CSE, ID-30.
-
-Today I’m showing my project titled “Laravel Bookstore Management System.”
-
 ✅ Features
 
 Book CRUD Operations (Create, Read, Update, Delete)

@@ -1,7 +1,8 @@
 
 ![WhatsApp Image 2025-05-26 at 19 13 52_a0ece7d0](https://github.com/user-attachments/assets/0d8a16fd-76fd-4f24-88c8-e250aadab68c)
 
-https://youtu.be/rd6fmf2Gjds?si=YIFANphKm2OphsCL
+https://youtu.be/rd6fmf2Gjds?si=YIFANphKm2OphsCL 
+
 Zahidul Islam Joy 30 
 23 batch CSE
 
@@ -50,3 +51,4 @@ Key Features:
        🔹Bookstore managers maintaining inventory.
        🔹Librarians cataloging and tracking book availability.
        🔹Online book selling platforms managing product listings
+                            

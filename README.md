@@ -5,7 +5,7 @@ https://youtu.be/rd6fmf2Gjds?si=YIFANphKm2OphsCL
 
 BookStore:
 
-I am Zahidul Islam Joy student of PUB 23rd batch BSc in CSE, ID-30.
+Hi! I am Zahidul Islam Joy student of PUB 23rd batch BSc in CSE, ID-30.
 
 Today I’m showing my project titled “Laravel Bookstore Management System.”
 
